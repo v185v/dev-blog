@@ -28,7 +28,21 @@ menu:
   标签: /tags/ || fas fa-tags
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-user
-
+# 详细格式配置
+# friend_links:
+#   - class_name: 技术博客
+#     class_desc: 那些很棒的技术博客
+#     link_list:
+#       - name: Butterfly
+#         link: https://butterfly.js.org/
+#         avatar: https://butterfly.js.org/img/butterfly.png
+#         descr: A Simple and Card UI Design theme for Hexo
+#         siteshot: https://api.iowen.cn/favicon/https://butterfly.js.org/
+#       - name: Hexo
+#         link: https://hexo.io/
+#         avatar: https://hexo.io/favicon.ico
+#         descr: A fast, simple & powerful blog framework
+#         siteshot: https://api.iowen.cn/favicon/https://hexo.io/
 # --------------------------------------
 # Code Blocks Settings
 # --------------------------------------

@@ -1,0 +1,12 @@
+- class_name: 友情链接
+  class_desc: 一些朋友们~
+
+  link_list:
+  - name: eliadoarias
+    link: https://eliadoarias.top/
+    avatar: 
+    descr: wxz
+  - name: endercrysta2
+    link: https://www.endercrysta2.xyz/
+    avatar: 
+    descr: bwz
