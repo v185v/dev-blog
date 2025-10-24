@@ -109,7 +109,7 @@ category_img: /img/categories.webp
 category_per_img:
 
 # The background image of footer
-footer_img: false
+footer_img: img/footer2.webp
 
 # Website Background
 # Can set it to color or image url
